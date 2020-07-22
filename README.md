@@ -7,12 +7,30 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔭 I'm currently working on
+
+- things at [Tyk] such as our [open-source API gateway] and some other secret projects
+- various [projects of my own]
+
+## 📫 How to reach me
+
+- [LinkedIn]
+- [Twitter]
+
+## 😄 Pronouns
+
+He/him/his
+
+<!-- Links -->
+[LinkedIn]: https://linkedin.com/in/jlucktay
+[open-source API gateway]: https://github.com/TykTechnologies/tyk
+[projects of my own]: https://github.com/jlucktay?tab=repositories&type=source&language=go
+[Twitter]: https://twitter.com/jlucktay
+[Tyk]: https://github.com/TykTechnologies
