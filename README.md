@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 😄 Pronouns
 
-He/him/his
+[He/him/his](http://pronoun.is/he).
 
 <!-- Links -->
 [LinkedIn]: https://linkedin.com/in/jlucktay
