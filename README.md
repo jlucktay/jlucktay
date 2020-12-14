@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 
 [He/him/his](http://pronoun.is/he).
 
+## 🧙‍♂️ Too cool to leave out
+
+<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blob/master/explanation.md">
+  <img src="hello.svg" width="400" height="200">
+</a>
+
 <!-- Links -->
 [LinkedIn]: https://linkedin.com/in/jlucktay
 [open-source API gateway]: https://github.com/TykTechnologies/tyk
