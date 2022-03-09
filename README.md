@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-<img src="https://raw.githubusercontent.com/jlucktay/jlucktay/master/gopherizeme.png" width=250>
+<img src="https://raw.githubusercontent.com/jlucktay/jlucktay/main/gopherizeme.png" width=250>
 
 <!--
 **jlucktay/jlucktay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +34,7 @@ Please don't email me! I'm not interested in changing roles.
 
 ## 🧙‍♂️ Too cool to leave out
 
-<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blob/master/explanation.md">
+<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blob/main/explanation.md">
   <img src="hello.svg" width="400" height="200">
 </a>
 
