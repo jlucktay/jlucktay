@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ⛔️ Recruiters
-
-Please don't email me! I'm not interested in changing roles.
-
 ## 🔭 I'm currently working on
 
 - things at [Tyk] such as our [open-source API gateway] and some other secret projects
