@@ -7,16 +7,40 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- ⚡ Fun fact: ...
 -->
 
 ## 🔭 I'm currently working on
 
 - various [projects of my own]
+
+## 🌱 I’m currently learning
+
+- [Rust](https://www.rust-lang.org)
+
+## ⚡ Fun facts
+
+> If you could only eat one type of food for the rest of your life, what would it be?
+
+I would say rice. 🤤
+
+> What is one thing you've learned that you wish you could tell your younger self?
+
+It's OK, you don't have to rush, take your time.
+
+> What is your favourite place in the world?
+
+Japan! 🇯🇵
+
+> What was your favourite subject in school?
+
+I loved the sciences, and math.
+
+> How many continents have you set foot on?
+
+Using the [seven continents definition](https://en.wikipedia.org/wiki/Continent#Number), four.
 
 ## 📫 How to reach me
 
