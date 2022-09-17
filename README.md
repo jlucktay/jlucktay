@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 ## 🔭 I'm currently working on
 
-- things at [Tyk] such as our [open-source API gateway] and some other secret projects
 - various [projects of my own]
 
 ## 📫 How to reach me
@@ -42,7 +41,5 @@ Here are some ideas to get you started:
 
 <!-- Links -->
 [LinkedIn]: https://linkedin.com/in/jlucktay
-[open-source API gateway]: https://github.com/TykTechnologies/tyk
 [projects of my own]: https://github.com/jlucktay?tab=repositories&type=source&language=go
 [Twitter]: https://twitter.com/jlucktay
-[Tyk]: https://github.com/TykTechnologies
